@@ -1,0 +1,7 @@
+.playlistContainer {
+    display: flex;
+    flex-direction: column;
+    width: 1164px;
+    height: 351px;
+    margin-top: 40px;
+}
